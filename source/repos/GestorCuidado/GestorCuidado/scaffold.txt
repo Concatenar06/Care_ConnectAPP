@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=LAPTOP-0FQJPUQE;Initial Catalog=GestorCuidado;Integrated Security=True;TrustServerCertificate=true" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -NoOnConfiguring -project GestorCuidado

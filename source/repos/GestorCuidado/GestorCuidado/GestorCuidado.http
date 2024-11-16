@@ -1,0 +1,6 @@
+@GestorCuidado_HostAddress = http://localhost:5283
+
+GET {{GestorCuidado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
